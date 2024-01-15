@@ -51,7 +51,7 @@ em{font-style:normal;}
 
 #top{ width:100%; height:120px; background:#0092d2;}
 #top_t{ width:100%; height:26px; background:url("../images/img1.jpg") repeat-x left top;}
-.top_tu{ width:1024px; height:120px; margin:0 auto; background:url("../images/img4.jpg") no-repeat;}
+.top_tu{ width:1024px; height:120px; margin:0 auto; background:url("..img4.jpg") no-repeat;}
 .top_left{ width:213px; height:118px; margin-top:1px; float:left;}
 .top_right{ width:283px; height:120px; margin-left:100px; float:left;}
 #main{ width:100%;}
